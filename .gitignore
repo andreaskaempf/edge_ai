@@ -2,3 +2,4 @@
 .pio
 *.old
 *.tflite
+__pycache__
